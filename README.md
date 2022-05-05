@@ -1,6 +1,6 @@
 Hallo Zusammen,
 
-in dieser Videoreihe entwickeln wir das Spiel Breakout in Unity. Die Videos richten sich vor allem an Einsteiger. Es wird also jeder Schritt genau erklärt!
+in dieser Videoreihe entwickeln wir das Spiel Breakout in Unity. Das ganze wird ein bisschen komplizierter, als die Breakout-Reihe, eignet sich aber immernoch sehr gut für Einsteiger!
 
 ![](Images/FlappyBirdImage.png)
 
