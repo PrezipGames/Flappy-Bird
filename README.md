@@ -11,6 +11,6 @@ Lerne den Mobile Game Hit Flappy Bird aus dem Jahr 2013 zu entwickeln! Flappy Bi
 - [💬 Joint unserem Discord Server](https://discord.gg/kusy4JQ4)
 - [👍 Abonniert um keine Videos zu verpassen](https://www.youtube.com/@prezipgames)
 
-![](Images/BreakoutImage.png)
+![](Images/FlappyBirdImage.png)
 
 ## Viel Spaß beim Entwickeln!
