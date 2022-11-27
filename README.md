@@ -6,7 +6,7 @@ Lerne den Mobile Game Hit Flappy Bird aus dem Jahr 2013 zu entwickeln! Flappy Bi
 - Themen: Side-Scroller Game , Unendlich Objekte generieren 
 - Version: 2020.3.26f1
 - [🧰 Assets Download](https://github.com/PrezipGames/Flappy-Bird-New/blob/main/FlappyBirdAssets.unitypackage)
-- [🎮 Downloade das ganze Projekt](https://github.com/PrezipGames/Breakout/archive/refs/heads/main.zip)
+- [🎮 Downloade das ganze Projekt](https://github.com/PrezipGames/Flappy-Bird-New/archive/refs/heads/main.zip)
 - [🎬 YT Tutorial](https://www.youtube.com/watch?v=MTn1LDzZnro&list=PL5ilq2JHX8N79tlLb5BinxmdcLz9ML1qJ)
 - [💬 Joint unserem Discord Server](https://discord.gg/kusy4JQ4)
 - [👍 Abonniert um keine Videos zu verpassen](https://www.youtube.com/@prezipgames)
