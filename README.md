@@ -8,7 +8,7 @@ Lerne den Mobile Game Hit Flappy Bird aus dem Jahr 2013 zu entwickeln! Flappy Bi
 - [🧰 Assets Download](https://github.com/PrezipGames/Flappy-Bird-New/raw/main/FlappyBirdAssets.unitypackage)
 - [🎮 Downloade das ganze Projekt](https://github.com/PrezipGames/Flappy-Bird-New/archive/refs/heads/main.zip)
 - [🎬 YT Tutorial](https://www.youtube.com/watch?v=R-QhOwWX3jU&t=21s)
-- [💬 Joint unserem Discord Server](https://discord.gg/kusy4JQ4)
+- [💬 Joint unserem Discord Server](https://discord.gg/cY5RW7D95u)
 - [👍 Abonniert um keine Videos zu verpassen](https://www.youtube.com/@prezipgames)
 
 ![](Images/FlappyBirdImage.png)
